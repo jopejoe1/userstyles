@@ -493,6 +493,9 @@
                     color: @text;
                 }
             }
+  //Upload from computer button
+	._ap30:hover {color: @accent-color}
+          
         } // Profile banner
         div:has( > .x1mu97ne) {
             background-color: @crust;
